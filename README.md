@@ -1,3 +1,3 @@
 # LeagueDex
 
-[Live](https://hyperino6101.github.io/LeagueDex/)
+[Demo](https://hyperino6101.github.io/LeagueDex/)
